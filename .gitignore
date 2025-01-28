@@ -1,3 +1,7 @@
 # folders
 /datasets
 /literatures
+/Paraformer
+
+# files
+ViT-B_16.npz
